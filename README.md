@@ -14,7 +14,7 @@ I turn messy inputs into clean, useful output — and keep it in the browser whe
 
 ## Featured projects
 
-### 📄 Sheet to Art
+### 📄 Sheet to Art · [Live demo](https://yjhacker.github.io/Sheet-to-Art/)
 
 **Spreadsheet → publication-grade PDF, 100% client-side.**
 
@@ -52,7 +52,7 @@ Routine timetable with alarms, hydration and exercise counters, weekly streaks, 
 
 ## Currently
 
-- Building **Sheet to Art** — templates, batch export, and a hosted demo
+- Building **Sheet to Art** — preset templates and batch export (the hosted demo is live)
 - Open to **SDE / full-stack internships**
 
 ---
